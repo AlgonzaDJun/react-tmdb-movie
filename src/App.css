@@ -12,3 +12,13 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
+
+.nav-inactive {
+  text-decoration: none;
+  color: white;
+  margin: 10px;
+}
+.nav-active {
+  color: white;
+  margin: 10px;
+}
